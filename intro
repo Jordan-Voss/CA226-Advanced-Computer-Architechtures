@@ -1,0 +1,4 @@
+bus - collection of wires
+usb = bus
+frame buffer = collection of memory
+interrupt = 

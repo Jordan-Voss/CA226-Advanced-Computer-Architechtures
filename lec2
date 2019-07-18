@@ -1,0 +1,10 @@
+a = a * b
+multiply 5:2 and 2:3 memory locations
+CISC
+  MULT 5:2 2:3 -> complex instruction *first operand is the location*
+RISC:
+  LOAD A, 2:3
+  LOAD B,5:2
+  MULT A,B
+  Store 2:3,A
+Only memory operations are LOAD, STORE
